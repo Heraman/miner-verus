@@ -1,0 +1,1 @@
+./hellminer.exe -c stratum+tcp://pool.verus.io:9998 -u RRtvqgCZq25rcnS2kb67tLSQvzni6jrkn3.pc -p x --cpu 4
