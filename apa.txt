@@ -1,1 +1,2 @@
 ./hellminer.exe -c stratum+tcp://pool.verus.io:9998 -u RRtvqgCZq25rcnS2kb67tLSQvzni6jrkn3.pc -p x --cpu 4
+xmrig.exe -o stratum+tcp://rx.unmineable.com:3333 -k -u PEPE:0x82684d4316c55b4c99037e4928156a287021a3eb.unmineable_miner_pc#bcqa-jrmq -a rx
